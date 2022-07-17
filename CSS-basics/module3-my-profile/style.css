@@ -1,0 +1,40 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: lightskyblue;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+header h3 {
+    border: 1px dashed rgb(255, 196, 0);
+}
+
+section {
+    border: 5px solid rgb(255, 196, 0);
+    margin: 10px;
+    padding: 10px;
+}
+
+section div {
+    border: 1px solid rgb(0, 136, 255);
+    margin: 10px;
+    padding: 10px;
+}
+
+section h3 {
+    border-bottom: 2px solid rgb(0, 136, 255);
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
