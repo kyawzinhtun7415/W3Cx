@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  header {
+    height: 15%;
+  }
+  
+  h1 {
+    float: left;
+  }
+  
+  span {
+    color: rgb(0, 81, 255);
+  }
+  
+  ul {
+    list-style: none;
+    float: right;
+  }
+  
+  h3 {
+    border-bottom: 1px solid black;
+  }
+  
+  
+  section {
+    clear: both;
+    height: 75%;  
+    border-top: 2px solid black;
+  }
+  
+  article {
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .work {
+    width:75%;
+    float:left;
+    height: 650px;
+  }
+  
+  .year1 {
+      float: left;
+      min-width: 5%;
+      line-height: 105px;
+      border-right: 1px solid black;
+  }
+  
+  .year2 {
+      float: left;
+      min-width: 5%;
+      line-height: 90px;
+      border-right: 1px solid black;
+  }
+  
+  .charity {
+    clear: both;
+  }
+  
+  .leader, .objective, .education{
+    overflow: hidden;
+  }
+  
+  footer {
+    height: 10%;
+  }
+  
+  footer p {
+    text-align: center;
+  }
